@@ -49,5 +49,27 @@ var tweets = [
 "The starting point of all achievement is desire.",
 "People ask, ‘What’s the best role you’ve ever played?’ The next one.",
 
+//jokes
+"Asian parents are actually the worst at understanding mental wellbeing. They assume you're doing fine just because you're still breathing.",
+"Sometimes, you hide things from people you loveto save 'em from being hurt. So it's okay to not tell your siblings who ate their ice cream.",
+"My first workout back at the gym was great... I did 15 mins of cardio, 10 mins on the defibrillator, and then 3 days in the hospital.",
+"Sometimes i eat things from the fridge not because I am hungry, but because I am afraid my siblings will eat before me",
+"I waved to a man because I thought he waved at me.Apparently he waved to an other woman. So to get out of the awkward situation I kept my hand up and a taxi pulled over and drove me to the airport. I am now in Poland starting a new life.",
 
+//quotes
+"Be yourself; everyone else is already taken.   ― Oscar Wilde",
+"So many books, so little time   ― Frank Zappa",
+"A room without books is like a body without a soul.   ― Marcus Tullius Cicero",
+"You only live once, but if you do it right, once is enough.  ― Mae West",
+"Be the change that you wish to see in the world.  ― Mahatma Gandhi",
+"A friend is someone who knows all about you and still loves you.   ― Elbert Hubbard",
+"To live is the rarest thing in the world. Most people exist, that is all.   ― Oscar Wilde",
+"Always forgive your enemies; nothing annoys them so much.   ― Oscar Wilde",
+"Without music, life would be a mistake.   ― Friedrich Nietzsche, Twilight of the Idols",
+"It is better to be hated for what you are than to be loved for what you are not.   ― Andre Gide, Autumn Leaves",
+"What a curious power words have.",
+"There is an ocean of silence between us… and I am drowning in it.  ― Ranata Suzuki",
+"You can get a thousand no's from people, and only one 'yes' from God.   ― Tyler Perry",
+"See the world as it is, not as you wish it would be   ― E. Lockhart",
+"We are made of all those who have built and broken us.   ― Atticus Poetry"
 ];
