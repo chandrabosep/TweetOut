@@ -1,0 +1,142 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: #222831;
+  flex-direction: column;
+}
+
+a{
+  text-decoration: underline;
+  color: white;
+}
+
+.wrapper{
+  width: 40rem;
+  max-width: 100%;
+  background: #393E46; 
+  border-radius: 15px;
+  padding: 25px 30px 25px;
+  
+}
+
+.wrapper header{
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 3.5rem;
+  font-weight:500;
+  text-align: center;
+  color: white;
+}
+
+
+
+.wrapper .content{
+  margin: 2rem 0;
+  padding: 3rem;
+}
+
+.content .tweet-area{
+  display: flex;
+  justify-content: center;
+}
+
+.tweet-area{
+  font-size: 15px;
+}
+
+
+.tweet-area .tweet{
+  font-size: 22px;
+  text-align: center;
+  color: white;
+}
+
+.wrapper .buttons{
+  border-top: 1px solid white;   
+}
+
+
+
+.buttons .features{
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  justify-content: space-between;   
+}
+
+#generate{
+    
+  border: 2px solid;
+  letter-spacing: 1.1px;
+}
+
+.features ul{
+  display: flex;   
+}
+
+.features ul li{
+  list-style: none;
+  margin: 0 5px;
+  height: 47px;
+  width: 47px;
+  display: flex;
+  cursor: pointer;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 2px solid white;
+  transition: all 0.3s ease;
+}
+
+.features ul li:hover{
+  color:#393E46;
+  background-color: white;
+}
+
+.features button{
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-style: 16px;
+  color: white;
+  background: #393E46;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 13px 22px; 
+}
+
+.Footer_footerActionContainer{
+  color: white;
+  width: 300px;
+  height: 60px;
+  background: rgba(0,0,0,.3);
+  border-radius: 20px;
+  box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
+  padding: 0 20px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+}
+  
+.Footer_footerContainer{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
