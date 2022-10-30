@@ -6,4 +6,9 @@ An easy-to-use website tool that generates random tweets for users who want to p
 
 <br>
 
+![image](https://user-images.githubusercontent.com/70272542/198871012-51dc97c5-094f-460f-98a2-82935b99c250.png)
+
+
+<br>
+
 ![Screenshot of app](https://github.com/chandrabosep/TweetOut/blob/main/Images/app-ss.jpg?raw=true)
